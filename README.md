@@ -3,11 +3,11 @@
 </div>
 
 ## About me
-✨ I'm a fullstack developer
-🙋🏻‍♀️ I'm a self-taught, I learn everything by myself
-💪🏻 Currently working on a new website project where you can write down work-related data
-😉 You can find me on [Linkedin](https://www.linkedin.com/in/ana-zamora-narvaez/)
-📩 Or send me an email to **anaa.zamoran@gmail.com**
+- ✨ I'm a fullstack developer
+- 🙋🏻‍♀️ I'm a self-taught, I learn everything by myself
+- 💪🏻 Currently working on a new website project where you can write down work-related data
+- 😉 You can find me on [Linkedin](https://www.linkedin.com/in/ana-zamora-narvaez/)
+- 📩 Or send me an email to **anaa.zamoran@gmail.com**
 
 ## Languages and tools
 
