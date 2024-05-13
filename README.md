@@ -38,6 +38,7 @@
 <h3 align="center">Jumping Ninja</h3>
 <div align="center">
 <a href="https://anaazamoraa.github.io/jumpingNinja/" target="_blank"><img src="https://res.cloudinary.com/dv7nx2bxb/image/upload/v1715597995/eojyhui4llaao8caox1z.png" width="400" alt="Jumping Ninja picture"></a>
+<br>
 <p>In my first videogame, players control a ninja navigating vertically moving platforms. Ascend as high as you can, dodging obstacles and collecting helpful items.</p>
 </div>
                                                                                       
@@ -53,7 +54,6 @@
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
