@@ -45,7 +45,6 @@
 </td>
 
 <td width="50%">
-               <br>
 <h3 align="center">Stephen King's Corner</h3>
 <div align="center">                                       
 <a href="https://stephen-kings-corner.fly.dev/" target="_blank"><img src="https://res.cloudinary.com/dv7nx2bxb/image/upload/v1715597995/vf9ksaignnxodedl5zh9.png" width="400" alt="Stephen Kings corner picture"></a>
