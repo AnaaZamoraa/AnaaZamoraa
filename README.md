@@ -11,6 +11,7 @@
 - 😉 You can find me on [Linkedin](https://www.linkedin.com/in/ana-zamora-narvaez/)
 - 📩 Or send me an email to **anaa.zamoran@gmail.com**
 
+
 ## Languages and tools
 
 <p align="center"> 
@@ -28,13 +29,16 @@
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/></a> 
 </p>
 
+
+## My projects
+
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Jumping Ninja</h3>
 <div align="center">
 <a href="https://anaazamoraa.github.io/jumpingNinja/" target="_blank"><img src="https://res.cloudinary.com/dv7nx2bxb/image/upload/v1715597995/eojyhui4llaao8caox1z.png" width="400" alt="Jumping Ninja picture"></a>
-<p>Welcome to Jumping Ninja, my first video game project! In this game, players take control of a nimble ninja who must navigate through a series of vertically moving platforms. The goal is to ascend as high as possible while avoiding obstacles and collecting helpful items along the way.</p>
+<p>In my first videogame, players control a ninja navigating vertically moving platforms. Ascend as high as you can, dodging obstacles and collecting helpful items.</p>
 </div>
                                                                                       
 </td>
