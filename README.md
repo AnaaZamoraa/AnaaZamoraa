@@ -50,7 +50,7 @@
 <div align="center">                                       
 <a href="https://stephen-kings-corner.fly.dev/" target="_blank"><img src="https://res.cloudinary.com/dv7nx2bxb/image/upload/v1715597995/vf9ksaignnxodedl5zh9.png" width="400" alt="Stephen Kings corner picture"></a>
 <br>
-</p>In my first backend project I wanted to practice my backend development skills and create a platform where fans of Stephen King can explore his works together.</p>
+<p>In my first backend project I wanted to practice my backend development skills and create a platform where fans of Stephen King can explore his works together.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
