@@ -28,6 +28,30 @@
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/></a> 
 </p>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Jumping Ninja</h3>
+<div align="center">
+<a href="https://anaazamoraa.github.io/jumpingNinja/" target="_blank"><img src="https://res.cloudinary.com/dv7nx2bxb/image/upload/v1715597995/eojyhui4llaao8caox1z.png" width="400" alt="Jumping Ninja picture"></a>
+<p>Welcome to Jumping Ninja, my first video game project! In this game, players take control of a nimble ninja who must navigate through a series of vertically moving platforms. The goal is to ascend as high as possible while avoiding obstacles and collecting helpful items along the way.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Stephen King's Corner</h3>
+<div align="center">                                       
+<a href="https://stephen-kings-corner.fly.dev/" target="_blank"><img src="https://res.cloudinary.com/dv7nx2bxb/image/upload/v1715597995/vf9ksaignnxodedl5zh9.png" width="400" alt="Stephen Kings corner picture"></a>
+<br>
+</p>In my first backend project I wanted to practice my backend development skills and create a platform where fans of Stephen King can explore his works together.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
