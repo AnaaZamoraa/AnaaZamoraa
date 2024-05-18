@@ -7,7 +7,7 @@
 ## About me
 - ✨ I'm a fullstack developer
 - 🙋🏻‍♀️ I'm a self-taught, I learn everything by myself
-- 💪🏻 Currently working on a new website project where you can write down work-related data
+- 💪🏻 Currently working on a new website project where you can publish your trips and experiencies with other users
 - 😉 You can find me on [Linkedin](https://www.linkedin.com/in/ana-zamora-narvaez/)
 - 📩 Or send me an email to **anaa.zamoran@gmail.com**
 
